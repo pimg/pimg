@@ -45,8 +45,8 @@ the Spring ecosystem.
 ## 📈 Stats
 
 <div align="center">
-    <img width=400em  src="https://github-readme-stats.vercel.app/api?username=pimg&show_icons=true&hide_border=true&theme=gruvbox" alt="Pim G's GitHub Stats"/> 
-    <img width=336em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimg&theme=gruvbox&hide_border=true&layout=compact&exclude_repo=apily-site,pimg.github.io,yts-demo-app,apicast"/>
+    <img width=400em  src="https://github-readme-stats.vercel.app/api?username=pimg&show_icons=true&hide_border=true&theme=gruvbox&bg_color=00000000" alt="Pim G's GitHub Stats"/> 
+    <img width=336em  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimg&theme=gruvbox&hide_border=true&bg_color=00000000&layout=compact&exclude_repo=apily-site,pimg.github.io,yts-demo-app,apicast"/>
     <br />
     <img src="https://github-profile-trophy.vercel.app/?username=pimg&row=1&column=6&margin-h=8&theme=gruvbox&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
