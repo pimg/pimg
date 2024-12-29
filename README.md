@@ -1,13 +1,17 @@
 # About me
-For my entire career I have worked in the field of systems integration and
-distributed computing. With a strong focus on API’s, API Management,
-microservices and containerization. I help organizations to design and implement
-complex business scenarios and products, on-premise, in the cloud or in a hybrid
-solution. With a strong focus on security. Coming from traditional SOA, EAI and
-BPM domains, concepts like loose coupling, bounded contexts and distribution of
-system resources come naturally to me. From a technical perspective I have used
-predominantly open source Java technology, coming mainly from Red Hat and
-the Spring ecosystem. 
+A driven specialist with a career focussing on interoperability of information exchange through API's. 
+With a strong interest for cryptography, API security and development of robust architectures with modern technologies.
+Helping organizations with designing and implementing safe and scalable solutions, both on-premise and in the cloud.
+
+With a background in traditional systems integration and BPM domains, I understand architectural concepts like loose coupling, bounded contexts and distributed systems.
+Making use of cryptography standards like TLS, JWT and PKI and working with advanced authentication and authorization schemes based on OAuth2 and OpenID Connect.
+My knowledge of cryptography allows me to ensure safe communication channels and data protection.
+
+I have extensive experience with Golang, using the language to build efficient scalable applications requiring high security levels.
+Next to this I also have extensive experience with various API Management platforms and Gateways like Apache APISIX, Kong and Red Hat 3Scale. Including, creating custom extensions for these platforms in LUA.
+Secondary I have gained a decade of experience with containerization using Docker and Kubernetes.
+
+Through my knowledge of industry standards (like x.509, OAuth2, JWT, and JWS) and the ability to integrate cutting-edge technologies I can deliver solutions that are both robust, safe and future proof.
 
 ## 🛠️ Skills
 
