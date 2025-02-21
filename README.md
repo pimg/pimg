@@ -9,34 +9,32 @@ My knowledge of cryptography allows me to ensure safe communication channels and
 
 I have extensive experience with Golang, using the language to build efficient scalable applications requiring high security levels.
 Next to this I also have extensive experience with various API Management platforms and Gateways like Apache APISIX, Kong and Red Hat 3Scale. Including, creating custom extensions for these platforms in LUA.
-Secondary I have gained a decade of experience with containerization using Docker and Kubernetes.
+Secondary I have gained a decade of experience with containerization using Docker and Kubernetes. As well as over a decade of programming in Java.
 
-Through my knowledge of industry standards (like x.509, OAuth2, JWT, and JWS) and the ability to integrate cutting-edge technologies I can deliver solutions that are both robust, safe and future proof.
+Through my knowledge of industry standards (like x.509, OAuth2, JWT, and JWS) and the ability to integrate cutting-edge technologies I can deliver solutions that are both robust, safe and future-proof.
 
 ## 🛠️ Skills
 
 ### Languages
-![<Java>](https://img.shields.io/badge/Java-b57614?style=for-the-badge&logoColor=white)
 ![<GO>](https://img.shields.io/badge/GO-af3a03?style=for-the-badge&logoColor=white)
 ![<Lua>](https://img.shields.io/badge/Lua-427b58?style=for-the-badge&logoColor=white)
+![<Java>](https://img.shields.io/badge/Java-b57614?style=for-the-badge&logoColor=white)
 
 
 ### Frameworks & Tools
 ![<OIDC>](https://img.shields.io/badge/OIDC-b57614?style=for-the-badge&logoColor=white)
 ![<OAuth2>](https://img.shields.io/badge/OAuth2-af3a03?style=for-the-badge&logoColor=white)
 ![<Open API Specification>](https://img.shields.io/badge/Open_API_SPEC-427b58?style=for-the-badge&logoColor=white)
-![<3Scale>](https://img.shields.io/badge/3scale-b57614?style=for-the-badge&logoColor=white)
-![<Apache Camel>](https://img.shields.io/badge/Apache_Camel-af3a03?style=for-the-badge&logoColor=white)
+![<HTMX>](https://img.shields.io/badge/HTMX-b57614?style=for-the-badge&logoColor=white)
 ![<Docker>](https://img.shields.io/badge/Docker-427b58?style=for-the-badge&logoColor=white)
-![<Openshift>](https://img.shields.io/badge/Openshift-b57614?style=for-the-badge&logoColor=white)
-![<Spring>](https://img.shields.io/badge/Spring-af3a03?style=for-the-badge&logoColor=white)
+![<Kong/APISIX>](https://img.shields.io/badge/Kong_APISIX-af3a03?style=for-the-badge&logoColor=white)
 ![<Kubernetes>](https://img.shields.io/badge/Kubernetes-427b58?style=for-the-badge&logoColor=white)
-![<Postman>](https://img.shields.io/badge/Postman-b57614?style=for-the-badge&logoColor=white)
-![<NGINX>](https://img.shields.io/badge/Lua-af3a03?style=for-the-badge&logoColor=white)
+![<JWS/JWT>](https://img.shields.io/badge/JWS_JWT-b57614?style=for-the-badge&logoColor=white)
+![<NGINX>](https://img.shields.io/badge/NGINX-af3a03?style=for-the-badge&logoColor=white)
 ![<Postgresql>](https://img.shields.io/badge/PostgresQL-427b58?style=for-the-badge&logoColor=white)
-![<ActiveMQ>](https://img.shields.io/badge/ActiveMQ-b57614?style=for-the-badge&logoColor=white)
 ![<Openresty>](https://img.shields.io/badge/Openresty-af3a03?style=for-the-badge&logoColor=white)
-![<NGINX>](https://img.shields.io/badge/Nginx-427b58?style=for-the-badge&logoColor=white)
+![<PKI>](https://img.shields.io/badge/PKI-427b58?style=for-the-badge&logoColor=white)
+![<SQLc>](https://img.shields.io/badge/SQLc-b57614?style=for-the-badge&logoColor=white)
 
 ### Concepts
 ![<API Security>](https://img.shields.io/badge/API_SECURITY-b57614?style=for-the-badge&logoColor=white)
@@ -45,6 +43,7 @@ Through my knowledge of industry standards (like x.509, OAuth2, JWT, and JWS) an
 ![<Developer Experience>](https://img.shields.io/badge/Developer_Experience-b57614?style=for-the-badge&logoColor=white)
 ![<API Strategy>](https://img.shields.io/badge/API_Strategy-af3a03?style=for-the-badge&logoColor=white)
 ![<Microservices>](https://img.shields.io/badge/Microservices-427b58?style=for-the-badge&logoColor=white)
+![<Cryptography>](https://img.shields.io/badge/Cryptography-b57614?style=for-the-badge&logoColor=white)
 
 ## 📈 Stats
 
@@ -60,3 +59,4 @@ Through my knowledge of industry standards (like x.509, OAuth2, JWT, and JWS) an
 ## 🔗 Links
 [![<LinkedIn>](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/pimgaemers/)
 [![<Wordpress>](https://img.shields.io/badge/WordPress-21759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)](https://pgaemers.wordpress.com/)
+[![<PEM Parser>](https://img.shields.io/badge/PEM_Parser-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://pem-parser.apily.nl)
